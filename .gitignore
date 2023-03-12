@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dataset that I've added. this the MSCOCO datast and another source
+Data/
+dataset1/
