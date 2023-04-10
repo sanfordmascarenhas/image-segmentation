@@ -131,3 +131,6 @@ dmypy.json
 # Dataset that I've added. this the MSCOCO datast and another source
 Data/
 dataset1/
+
+# Weights are too large.
+weights*
